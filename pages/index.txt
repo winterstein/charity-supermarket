@@ -3,9 +3,9 @@
 <p></p>
 <div class="jumbotron">
   <div class="container">
-  	<p>SoGive helps you keep track of how you’ve made the world a better place through your charitable giving.</p>
+  	<p>Charity Supermarket helps you keep track of how you’ve made the world a better place through your charitable giving.</p>
 	<div> <!-- class='center-block text-center' -->
-	<form id='mailing-list' action='https://sogive.soda.sh/forms-form.json' class='form-inline'>
+	<form id='mailing-list' action='https://Charity Supermarket.soda.sh/forms-form.json' class='form-inline'>
 		<input type='hidden' name='mlist' value='company-news,product-news,marketing'>
 		<div class='form-group'>
 			<label class='input-lg'>Get email updates</label>  			
@@ -23,10 +23,10 @@
     <div class="col-md-4">
       <h2>What We Do</h2>
       <p>
-      SoGive shows your impact - for the donations you make via SoGive and the donations you make elsewhere.
+      Charity Supermarket shows your impact - for the donations you make via Charity Supermarket and the donations you make elsewhere.
       </p>
       <p>
-	SoGive's impact models are calculated independently of the charities themselves, so you can have confidence that they show you the true picture of what you achieved with your giving.
+	Charity Supermarket's impact models are calculated independently of the charities themselves, so you can have confidence that they show you the true picture of what you achieved with your giving.
 	</p>
 	<p>
 	Impact indications available for all of the top 50 charities in the UK, and several others.
@@ -34,7 +34,7 @@
     </div><!-- ./what we do -->
     <div class="col-md-4">
     	<h2>Join Us</h2>
-    	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span></p>
+    	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='sanjay' domain='Charity Supermarket.org'>sanjay (at) Charity Supermarket.org</span></p>
    </div>
     <div class="col-md-4">
       	<h2>About</h2>
