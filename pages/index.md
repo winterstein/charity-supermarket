@@ -34,7 +34,7 @@
     </div><!-- ./what we do -->
     <div class="col-md-4">
     	<h2>Join Us</h2>
-    	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='hello.charity.supermarket' domain='gmail.com'>hello.charity.supermarket (at) gmail.com</span></p>
+    	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='charitysupermarket' domain='gmail.com'>charitysupermarket (at) gmail.com</span></p>
    </div>
     <div class="col-md-4">
       	<h2>About</h2>
