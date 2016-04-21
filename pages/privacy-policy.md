@@ -21,7 +21,7 @@ In using Charity Supermarket, you agree:
  - We can contact you as part of the services we supply, e.g. to tell you about new features.
  - If you submit content to a public part of the site then you grant us an open licence to use, reproduce, adapt and publish that content. An example would be posting a public comment on a blog we host. This does not affect private content, which remains private.
 
-SoGrow will ask you to authorise access to sites such as Twitter using a secure system called OAuth. 
+Charity Supermarket will ask you to authorise access to sites such as Twitter using a secure system called OAuth. 
 This means you don't have to give us your password. You can revoke OAuth access at any point. 
 E.g. for Twitter, you do that at http://twitter.com/account/connections.
 
