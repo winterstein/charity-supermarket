@@ -3,7 +3,7 @@
 <p></p>
 <div class="jumbotron">
   <div class="container">
-  	<p>Charity Supermarket helps you keep track of how you’ve made the world a better place through your charitable giving.</p>
+  	<p>Charity Supermarket helps you see how you’ve made the world a better place through your charitable giving.</p>
 	<div> <!-- class='center-block text-center' -->
 	<form id='mailing-list' action='https://sogive.soda.sh/forms-form.json' class='form-inline'>
 		<input type='hidden' name='mlist' value='company-news,product-news,marketing'>
@@ -23,13 +23,13 @@
     <div class="col-md-4">
       <h2>What We Do</h2>
       <p>
-      Charity Supermarket shows your impact - for the donations you make via Charity Supermarket and the donations you make elsewhere.
+      Charity Supermarket will convert your donation from a £ amount into the change that you have made in the world.
       </p>
       <p>
 	Charity Supermarket's impact models are calculated independently of the charities themselves, so you can have confidence that they show you the true picture of what you achieved with your giving.
 	</p>
 	<p>
-	Impact indications available for all of the top 50 charities in the UK, and several others.
+	Impact indications available for most of the major charities, and several smaller ones too.
 	</p>
     </div><!-- ./what we do -->
     <div class="col-md-4">
