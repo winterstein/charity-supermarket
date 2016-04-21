@@ -1,6 +1,6 @@
 # Contact
 
-You can get in touch by <span class='email' name='hello.charity.supermarket' domain='gmail.com'>hello.charity.supermarket (at) gmail.com</span>
+You can get in touch by <span class='email' name='charitysupermarket' domain='gmail.com'>charitysupermarket (at) gmail.com</span>
 
 Please also sign up to our mailing list for project updates: 
 
