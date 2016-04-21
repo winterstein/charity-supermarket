@@ -1,8 +1,6 @@
 # What is Charity Supermarket?
 
-Charity Supermarket is a tool that lets you see the impact you’ve made in the world through all your charitable giving. Unlike many other websites that support you with your charitable giving, we will
-be comprehensive - i.e. show you not just the giving that you did via Charity Supermarket, but also any other giving as well,
-and we show you the impact - i.e. what did your giving achieve, not just how much money did you give.
+Charity Supermarket is a tool that lets you see the impact you’ve made in the world through your charitable giving. Using our independent analysis, we will show you the impact that you achieved with your donation. Furthermore, by using data-driven analysis, we can help you see which are the best giving opportunities.
 
 <div class="panel panel-default">
 <div class="panel-heading">Example</div>
@@ -18,4 +16,4 @@ and we show you the impact - i.e. what did your giving achieve, not just how muc
 
 The Charity Supermarket platform is a social media enabled platform -- you can link to facebook and twitter and let your friends know about the good you achieve in the world. We believe in being open and proud about your achievements with charitable giving - we don’t want you to hide your light under a bushel! But if you prefer to stay quiet about charity activity, it's your choice.
 
-There is no charge for using Charity Supermarket to see your impact on the world. If you make payments through Charity Supermarket, we will take a small percentage to help cover the costs of running the service, and this percentage will be less than the leading charitable giving platform.
+There is no charge to get access to Charity Supermarket's analysis. If you make payments through Charity Supermarket, we will take a small percentage to help cover the costs of running the service; this is a practice followed by a number of the other main charitable giving platforms.
